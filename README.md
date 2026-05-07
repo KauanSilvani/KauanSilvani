@@ -27,7 +27,7 @@ I am currently a student in the 3rd semester of **Information Systems at UNOESC*
 * **Effective Communication** 
 * **Teamwork** 
 * **Time Management** 
-* **Quick Learning & Curiosity** [cite: 45]
+* **Quick Learning & Curiosity** 
 
 ---
 
