@@ -2,12 +2,12 @@
 ## My name is Kauan Silvani and my nickname is "Silvani"!
 
 ### 👨‍💻 About Me
-I am currently a student in the 3rd semester of **Information Systems at UNOESC**[cite: 10, 11]. [cite_start]I work as a **Development Assistant** at Patrimonial Segurança, where I focus on Business Intelligence (BI) and system support[cite: 22, 23, 24]. [cite_start]My journey in tech started as a Software Development Apprentice, and I am passionate about continuous learning and solving complex problems[cite: 6, 14].
+I am currently a student in the 3rd semester of **Information Systems at UNOESC**. I work as a **Development Assistant** at Patrimonial Segurança, where I focus on Business Intelligence (BI) and system support. My journey in tech started as a Software Development Apprentice, and I am passionate about continuous learning and solving complex problems.
 
 - 🔭 **Current Focus:** Building BI solutions, managing SQL Server databases, and supporting Java APIs.
-- 🌱 **Learning:** Deepening my knowledge in **Java** (Object-Oriented Programming) and **Python**[cite: 35, 37, 38, 42].
-- 💬 **Languages:** Intermediate English (3 years of study at KNN Idiomas)[cite: 32, 34].
-- 🎯 **Goal:** To evolve as a developer by seeking new challenges and mastering modern technologies[cite: 6].
+- 🌱 **Learning:** Deepening my knowledge in **Java** (Object-Oriented Programming) and a little bit JavaScript and yours frameworks.
+- 💬 **Languages:** Intermediate English (3 years of study at KNN Idiomas).
+- 🎯 **Goal:** To evolve as a developer by seeking new challenges and mastering modern technologies.
 
 ---
 
@@ -32,7 +32,7 @@ I am currently a student in the 3rd semester of **Information Systems at UNOESC*
 ---
 
 ### 📫 Let's Connect!
-[cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-silvani-baba8a272) 
-[cite_start][![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauansilvani@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-silvani-baba8a272) 
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauansilvani@gmail.com) 
 
 
