@@ -1,5 +1,5 @@
 # 👋 Hello everyone! Welcome to my Github profile.
-## My name is Kauan Silvani and my nickname is "Silvani"!
+## My name is Kauan Silvani but just call me "Silvani"!
 
 ### 👨‍💻 About Me
 I am currently a student in the 3rd semester of **Information Systems at UNOESC**. I work as a **Development Assistant** at Patrimonial Segurança, where I focus on Business Intelligence (BI) and system support. My journey in tech started as a Software Development Apprentice, and I am passionate about continuous learning and solving complex problems.
